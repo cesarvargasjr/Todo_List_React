@@ -22,4 +22,4 @@ Execute em seu terminal os seguintes comandos:
 Para instalar o "Node_Modules".
 
 ### `npm run dev`
-Após executar os comandos abra [http://localhost:3003](http://localhost:8080) para visualizar em seu navegador o projeto.
+Após executar os comandos abra [http://localhost:8080](http://localhost:8080) para visualizar em seu navegador o projeto.
